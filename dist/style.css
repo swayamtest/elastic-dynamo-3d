@@ -1,6 +1,7 @@
 html, body {
     height: 100vh;
     background-color: #000000;
+    font-size:15px;
     /*background-image: linear-gradient(to bottom right, #2E2A51, #201335);*/
   }
   
@@ -17,16 +18,16 @@ html, body {
   }
   
   h1 {
-    font-size: 13rem;
+    font-size: 10vw;
     color: #e5e2e5;
     text-align: center;
   }
   
   figcaption {
     color: #fff;
-    font-size: .7rem;
-    letter-spacing: 0.23rem;
-    line-height: 1.3rem;
+    font-size: 11px;
+    letter-spacing: 1.7px;
+    line-height: 23px;
     text-align: center;
     text-transform: uppercase;
     font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
