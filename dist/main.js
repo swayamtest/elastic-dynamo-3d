@@ -84,7 +84,7 @@ lightCool.add(pointLight2.position, 'y').min(-5).max(5).step(0.01)
 lightCool.add(pointLight2.position, 'z').min(-5).max(5).step(0.01)
 lightCool.add(pointLight2, 'intensity').min(0).max(10).step(0.01)
 
-//Light Helpers
+/*Light Helpers
 const lightHelper = new THREE.PointLightHelper(pointLight, 0.5)
 scene.add(lightHelper)
 
@@ -92,7 +92,7 @@ const lightHelper2 = new THREE.PointLightHelper(pointLight2, 0.5)
 scene.add(lightHelper2)
 
 const lightHelper3 = new THREE.PointLightHelper(pointLight3, 0.5)
-scene.add(lightHelper3)
+scene.add(lightHelper3)*/
 
 //Sizes
 const sizes = {
